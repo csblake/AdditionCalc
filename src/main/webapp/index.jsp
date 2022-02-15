@@ -5,6 +5,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Addition Calculator</title>
+
+<style>
+	
+	body {
+		background-color: skyblue;
+	}
+</style>
+
 </head>
 <body>
 

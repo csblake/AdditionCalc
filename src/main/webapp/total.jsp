@@ -6,6 +6,16 @@
 <head>
 <meta charset="UTF-8">
 <title>Calculation Total</title>
+
+<style>
+	
+	body {
+		
+		background-color: skyblue;
+	
+	}
+
+</style>
 </head>
 <body>
 
